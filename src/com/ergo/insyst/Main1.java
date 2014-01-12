@@ -13,10 +13,12 @@ public class Main1 {
 
     public static void main(String[] args) {
 
-        /*String[] strDizi = new String[3];
+        String[] strDizi = new String[3];
          strDizi[0] = "Arda Uslu";
          strDizi[1] = "Sinan Aleksander Özüak";
-         strDizi[2] = "Murat Özüak";*/
+         strDizi[2] = "Murat Özüak";
+         
+         String[] isimDizi = {"Arda Uslu","Sinan Aleksander Özüak","Murat Özüak"};
         /*int i= 10;
         
          if( i == 100){
